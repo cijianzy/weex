@@ -14,5 +14,5 @@
 
 </script>
 
-<script src="//s95.cnzz.com/z_stat.php?id=1258852176&web_id=1258852176" ></script>
+<script src="//s95.cnzz.com/z_stat.php?id=1261102667&web_id=1261102667" language="JavaScript"></script>
 
